@@ -65,8 +65,8 @@ A modern web application that connects people based on their skills and enables 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/skill-match-connect.git
-cd skill-match-connect
+git clone https://github.com/rahul-58/SkillForge.git
+cd SkillForge
 ```
 
 2. Install dependencies:
@@ -107,7 +107,7 @@ yarn start
 
 ```
 src/
-├── components/        # React components
+├── components/       # React components
 ├── config/           # Configuration files
 ├── hooks/            # Custom React hooks
 ├── services/         # Service integrations
