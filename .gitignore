@@ -17,6 +17,9 @@
 .env.test.local
 .env.production.local
 
+# Firebase
+skillforge-3a939-firebase-adminsdk-fbsvc-81856f0360.json
+
 # Debug logs
 npm-debug.log*
 yarn-debug.log*
