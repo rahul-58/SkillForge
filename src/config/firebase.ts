@@ -5,12 +5,12 @@ import { getStorage } from 'firebase/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZfEskokyOhvpZMxPt4U9ESxj2tboSTl4",
-  authDomain: "skillforge-3a939.firebaseapp.com",
-  projectId: "skillforge-3a939",
-  storageBucket: "skillforge-3a939.appspot.com",
-  messagingSenderId: "110768517551145826935",
-  appId: "1:110768517551145826935:web:1234567890abcdef"
+  apiKey: "xyz",  
+  authDomain: "xyx",
+  projectId: "xyz",
+  storageBucket: "xyz",
+  messagingSenderId: "xyz",
+  appId: "xyz"
 };
 
 // Debug Firebase configuration
